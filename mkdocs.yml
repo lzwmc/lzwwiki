@@ -1,0 +1,61 @@
+site_name: LazyWorld Wiki
+site_url: null
+site_description: LazyWrold Wiki
+site_author: zhl
+repo_name: Github
+repo_url: https://github.com/lzwmc/lzwwiki
+edit_uri: 'http://127.0.0.1:8000/edit-landing/?ref='
+copyright: "Copyright © 2019 - 2023 LazyWorld"
+
+extra:
+  copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
+  pagetime: 'on'
+
+theme:
+  name: material
+  palette:
+    primary: 'green'
+    accent: 'green'
+  feature:
+    tabs: true
+
+  #font:
+    #text: 'Ubuntu'
+    #code: 'Ubuntu Mono'
+
+  favicon: 'assets/images/favicon.png'
+
+  language: 'zh'
+
+nav:
+  - 简介:
+    - Getting Started: index.md
+  - 对于新玩家:
+    - 成为此服务器的玩家: forplayer/fist.md
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
