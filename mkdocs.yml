@@ -32,6 +32,13 @@ nav:
     - Getting Started: index.md
   - 对于新玩家:
     - 成为此服务器的玩家: forplayer/fist.md
+    - 服务器章程: forplayer/rulus.md
+    - 游戏内指令指南: forplayer/cmdhepler.md
+  - 对于服务器管理者:
+    - 注意事项: foradmin/waringtings.md
+    - 管理权限指南: foradmin/admincmd.md
+  - 对于服务器运营者:
+    - 服务器结构: forsuperadmin/theserver.md
 
 # Extensions
 markdown_extensions:
@@ -52,6 +59,11 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_png
+      #emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      #emoji_generator: !!python/name:pymdownx.emoji.to_png_sprite
+      #emoji_generator: !!python/name:pymdownx.emoji.to_svg_sprite
+      #emoji_generator: !!python/name:pymdownx.emoji.to_awesome
+      #emoji_generator: !!python/name:pymdownx.emoji.to_alt
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -59,3 +71,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist
   - pymdownx.tilde
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
