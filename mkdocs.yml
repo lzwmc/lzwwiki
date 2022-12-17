@@ -38,8 +38,10 @@ nav:
     - 注意事项: foradmin/waringtings.md
     - 管理权限指南: foradmin/admincmd.md
   - 对于服务器运营者:
-    - 服务器结构: forsuperadmin/theserver.md
-
+    - 服务器文件结构: forsuperadmin/theserver.md
+    - 服务器网络结构: forsuperadmin/theinternet.md
+  - 关于本文档的编写:
+    - 关于: about/about.md
 # Extensions
 markdown_extensions:
   - admonition
