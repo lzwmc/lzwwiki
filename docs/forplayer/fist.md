@@ -4,7 +4,7 @@
 
     - 在QQ群 您可以提出问题 寻求帮助 服务器一切重要的通知和指南都会在QQ群发布
 
-    - [![QQ](assets/images/QQgroup-LazyWorld-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=UiQOU0xql5O05UFkO0j2AzBLY9tfneEy&jump_from=webapi&authKey=Yz4hL9uTRXFBf0jmn52wMqbGyUXhJi7SkUlcKWFK/fLsBo1utMrfEQk16Pjpnxky)
+    - [![QQ](/lzwwiki/assets/images/QQgroup-LazyWorld-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=UiQOU0xql5O05UFkO0j2AzBLY9tfneEy&jump_from=webapi&authKey=Yz4hL9uTRXFBf0jmn52wMqbGyUXhJi7SkUlcKWFK/fLsBo1utMrfEQk16Pjpnxky)
 
 - 登录外置登录网站 [注册](http://lazyworld.top/auth/register) 用户
 
