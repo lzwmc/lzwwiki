@@ -12,11 +12,13 @@
 
 - 下载客户端
 
-    - [下载链接](https://qwcode-my.sharepoint.com/:u:/g/personal/liuzihao_qwcode_onmicrosoft_com/ERelKIlW1VxBo8A5-Q4l2RkBquO75Md4NUp5DS188tifSg?e=cHPhgQ),或者通过QQ群文件下载 lazyworldczb.zip 文件
+    - [下载链接](https://qwcode-my.sharepoint.com/:u:/g/personal/liuzihao_qwcode_onmicrosoft_com/ERelKIlW1VxBo8A5-Q4l2RkBquO75Md4NUp5DS188tifSg?e=cHPhgQ),或者通过QQ群文件下载 lazyworld-allczb.zip 文件
 
     - 下载完成后解压，输入注册外置登录的邮箱和密码 进入游戏
+    
+    - 进入游戏后 会自动进入服务器
 
-    - 进入服务器 服务器地址 game.lazyworld.top 然后就可以愉快的玩耍了
+    - 如果没有自动进入服务器 服务器地址 game.lazyworld.top 模组服:game.lazyworld.top:2555
 
     - 如果您是基岩玩家:
 

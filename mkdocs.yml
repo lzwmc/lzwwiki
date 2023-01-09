@@ -2,14 +2,15 @@ site_name: LazyWorld Wiki
 site_url: null
 site_description: LazyWrold Wiki
 site_author: zhl
-repo_name: Github
-repo_url: https://github.com/lzwmc/lzwwiki
-edit_uri: 'http://127.0.0.1:8000/edit-landing/?ref='
 copyright: "Copyright © 2019 - 2023 LazyWorld"
 
 extra:
+  generator: false
   copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
   pagetime: 'on'
+
+features:
+  - navigation.top
 
 theme:
   name: material
@@ -27,6 +28,16 @@ theme:
 
   language: 'zh'
 
+  palente:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
 nav:
   - 简介:
     - Getting Started: index.md
@@ -40,6 +51,9 @@ nav:
   - 对于服务器运营者:
     - 服务器文件结构: forsuperadmin/theserver.md
     - 服务器网络结构: forsuperadmin/theinternet.md
+    - 实用工具:
+      - Putty: forsuperadmin/useful_tool/putty.md
+      - Nginx: forsuperadmin/useful_tool/nginx.md
   - 关于本文档的编写:
     - 关于: about/about.md
 # Extensions
